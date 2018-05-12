@@ -22,5 +22,5 @@ dubbo服务的实战使用代码
 	
        	第五步：将dubbo-client修改为web项目，添加到tomcat下，此时tomcat下有dubbo-web和dubbo-client2个项目，
 	同时运行，然后启动浏览器http://localhost:8080/dubbo-client/index.html
-
+1test
 查看代码演示即可。
